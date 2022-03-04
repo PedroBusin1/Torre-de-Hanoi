@@ -1,0 +1,8 @@
+Thu Mar  3 23:18:14 2022 Erro: SaveNaoEncontradoError Mensagem: Não existe jogo salvo! Tratamento do erro: Retorna ao menu principal
+Thu Mar  3 23:18:23 2022 Erro: SaveNaoEncontradoError Mensagem: Não existe jogo salvo! Tratamento do erro: Retorna ao menu principal
+Fri Mar  4 00:10:02 2022 Erro: SaveNaoEncontradoError Mensagem: Não existe jogo salvo! Tratamento do erro: Retorna ao menu principal
+Fri Mar  4 00:10:08 2022 Erro: o Usuario informou um valor inadequado para o pino de saida e de entrada,  Mensagem: Lance inválido, tente novamente! Tratamento do erro: Pede para o jogador fazer outra jogada.
+Fri Mar  4 00:10:10 2022 Erro: o Usuario informou um valor inadequado para o pino de saida e de entrada,  Mensagem: Lance inválido, tente novamente! Tratamento do erro: Pede para o jogador fazer outra jogada.
+Fri Mar  4 00:10:12 2022 Erro: o Usuario informou um valor inadequado para o pino de saida e de entrada,  Mensagem: Lance inválido, tente novamente! Tratamento do erro: Pede para o jogador fazer outra jogada.
+Fri Mar  4 00:11:10 2022 Erro: o Usuario informou um valor inadequado para o pino de saida e de entrada,  Mensagem: Lance inválido, tente novamente! Tratamento do erro: Pede para o jogador fazer outra jogada.
+Fri Mar  4 15:32:06 2022 Erro: o Usuario informou um valor inadequado para o pino de saida e de entrada,  Mensagem: Lance inválido, tente novamente! Tratamento do erro: Pede para o jogador fazer outra jogada.
